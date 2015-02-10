@@ -33,6 +33,12 @@ public class ComposeActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         intent = getIntent();
         setContentView(R.layout.activity_compose);
+
+        android.support.v7.app.ActionBar actionBar = getSupportActionBar();
+        actionBar.setDisplayShowHomeEnabled(true);
+        actionBar.setIcon(R.drawable.ic_launcher);
+        actionBar.setDisplayHomeAsUpEnabled(true);
+
         Typeface boldFont = Typeface.createFromAsset(getApplicationContext().getAssets(), "fonts/OpenSans-Bold.ttf");
         Typeface font = Typeface.createFromAsset(getApplicationContext().getAssets(), "fonts/OpenSans-Regular.ttf");
         ivUserIcon = (ImageView) findViewById(R.id.ivUserIcon);

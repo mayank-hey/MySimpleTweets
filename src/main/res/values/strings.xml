@@ -9,7 +9,7 @@
     <string name="sample_username">Username</string>
     <string name="sample_tweet">This is a sample tweet cannot be more than 140 characters</string>
     <string name="sample_relative_date">23m</string>
-    <string name="title_activity_compose">ComposeActivity</string>
+    <string name="title_activity_compose">Update Status</string>
     <string name="label_cancel">Cancel</string>
     <string name="label_tweet">Tweet</string>
     <string name="sample_screenname">\@screen_name</string>

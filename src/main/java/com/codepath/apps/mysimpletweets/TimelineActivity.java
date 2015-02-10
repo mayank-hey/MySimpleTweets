@@ -31,13 +31,18 @@ public class TimelineActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_timeline);
+
+        android.support.v7.app.ActionBar actionBar =this.getSupportActionBar();
+        actionBar.setDisplayShowHomeEnabled(true);
+        actionBar.setIcon(R.drawable.ic_launcher);
+
         lvTweets = (ListView) findViewById(R.id.lvTweets);
         tweets = new ArrayList<Tweet>();
         aTweets = new TweetsArrayAdapter(this, tweets);
         lvTweets.setAdapter(aTweets);
         client = new TwitterApplication().getRestClient();
         populateTimeline();
-        lvTweets.setOnScrollListener(new EndlessScrollListener() {
+        lvTweets.setOnScrollListener( new EndlessScrollListener() {
             @Override
             public void onLoadMore(int page, int totalItemsCount) {
                     customLoadMoreDataFromApi();

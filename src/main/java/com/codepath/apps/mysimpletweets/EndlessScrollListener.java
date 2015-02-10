@@ -70,6 +70,5 @@ public abstract class EndlessScrollListener implements OnScrollListener {
     @Override
     public void onScrollStateChanged(AbsListView view, int scrollState) {
         // Don't take any action on changed
-        Log.d("DEBUG", "************ Check if working ********");
     }
 }
