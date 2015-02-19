@@ -47,19 +47,23 @@
         </activity>
         <activity
             android:name=".TimelineActivity"
-            android:label="@string/title_activity_timeline"
             android:icon="@drawable/ic_launcher"
-            >
+            android:label="@string/title_activity_timeline" >
         </activity>
         <activity
             android:name=".ComposeActivity"
             android:label="@string/title_activity_compose"
             android:parentActivityName=".TimelineActivity" >
+
             <!-- Parent activity meta-data to support API level 7+ -->
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".TimelineActivity" />
             >
+        </activity>
+        <activity
+            android:name=".ProfileActivity"
+            android:label="@string/title_activity_profile" >
         </activity>
     </application>
 

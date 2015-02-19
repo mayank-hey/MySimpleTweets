@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.codepath.apps.mysimpletweets.ComposeActivity">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+    />
+    <item
+        android:id="@+id/tvActionBarCharCount"
+        android:title="140"
+        app:showAsAction="always|withText"
+        android:enabled="false"
+        >
+    </item>
+
+    <item
+        android:id="@+id/tvActionBarTweet"
+        android:title="@string/label_tweet"
+        app:showAsAction="always|withText"
+        >
+    </item>
+</menu>
+<!-- From: file:/Users/mchacko/Documents/Development/AndroidWorkshop/MySimpleTweets/app/src/main/res/menu/menu_compose.xml -->

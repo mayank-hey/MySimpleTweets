@@ -1,0 +1,12 @@
+/Users/mchacko/Documents/Development/AndroidWorkshop/MySimpleTweets/app/build/intermediates/classes/debug
+/Users/mchacko/Documents/Development/AndroidWorkshop/MySimpleTweets/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-cdd413c96bccba0723a71935df089d6cd0ebc265.jar
+/Users/mchacko/Documents/Development/AndroidWorkshop/MySimpleTweets/app/build/intermediates/pre-dexed/debug/codepath-utils-530fd82b3bb9574f21c5a4153d4c6b09401df6ec.jar
+/Users/mchacko/Documents/Development/AndroidWorkshop/MySimpleTweets/app/build/intermediates/pre-dexed/debug/classes-c7861a13f04152fa2b9e6ae458e5f6ac3e0bc027.jar
+/Users/mchacko/Documents/Development/AndroidWorkshop/MySimpleTweets/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-754aaf540f1d833c5dc6533abdaa3571fbb4f648.jar
+/Users/mchacko/Documents/Development/AndroidWorkshop/MySimpleTweets/app/build/intermediates/pre-dexed/debug/ActiveAndroid-3.1-08c6335cd-747eb31699ae8dd2235771fb0db941f4a0ccbe84.jar
+/Users/mchacko/Documents/Development/AndroidWorkshop/MySimpleTweets/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3-da1d5bceee1a74ae3b9ae580375066522414d654.jar
+/Users/mchacko/Documents/Development/AndroidWorkshop/MySimpleTweets/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-e30ca6b245a5155a4c909250c86531d9377738b5.jar
+/Users/mchacko/Documents/Development/AndroidWorkshop/MySimpleTweets/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-5b6854875798179ad68eefd62c5f417e74bf6c9c.jar
+/Users/mchacko/Documents/Development/AndroidWorkshop/MySimpleTweets/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-09223805d24028cb4b90e1809093d9982735a9c9.jar
+/Users/mchacko/Documents/Development/AndroidWorkshop/MySimpleTweets/app/build/intermediates/pre-dexed/debug/classes-30b764d0ee516c43f1c2b0c43b740c5854ad2888.jar
+/Users/mchacko/Documents/Development/AndroidWorkshop/MySimpleTweets/app/build/intermediates/pre-dexed/debug/classes-46412c27a98fb18177a4bbc5755ab247b86ab9ab.jar

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/icon_launcher"
+          android:icon="@drawable/ic_launcher"
+          android:layout_height="fill_parent"
+          android:showAsAction="always"
+        ></item>
+
+</selector><!-- From: file:/Users/mchacko/Documents/Development/AndroidWorkshop/MySimpleTweets/app/src/main/res/drawable/icon_launcher.xml -->
